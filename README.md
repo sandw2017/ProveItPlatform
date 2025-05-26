@@ -1,39 +1,45 @@
-# 🏆 Stake & Wager — ProveIt Platform
+# StakeAndWager
 
-> Built by the **StakeAndWager** team  
-> 🌐 Official Website: [https://stakeandwager.com](https://stakeandwager.com)  
-> 💸 Valuation: **$10,000,000 USD**
+### 🚀 The Internet’s Stock Market of Ideas
 
----
-
-### 🚀 Mission
-StakeAndWager is a new digital frontier where users can **prove skills, challenge others, and bet on truth**. Whether it's gaming, coding, or fitness — if you can do it, **prove it** and get rewarded.
+**StakeAndWager** is a decentralized project where trolls, devs, and dreamers build the future. If your ideas bring traffic, you earn equity. This is an experiment in **value-through-virality**.
 
 ---
 
-### 🔥 Join as a Developer (We Call You "Dev Trolls")
+## 👥 Team
 
-This platform is **open-source and equity-backed**.
+This is a public project led by the community. No founders. Just fire.
 
-🧾 **Here's how it works:**
-- The site will be officially hosted at **[stakeandwager.com](https://stakeandwager.com)**.
-- As the project grows, **the traffic and features you bring** to the platform will be **evaluated**.
-- The more value you create — via **code, marketing, design, or ideas** — the more **ownership stake** you're eligible to receive.
-- Team shares will be based on **contribution + user traction metrics**.
-
-💎 What’s in it for you?
-- Your ideas live on a real platform.
-- You'll be **recognized publicly as a builder**.
-- **Commission-style equity** based on impact.
+Domain: [stakeandwager.com](https://stakeandwager.com)  
+Company Valuation: **$10,000,000 USD**  
+Stock: Distributed through GitHub contributions and community-driven influence.
 
 ---
 
-### 🎯 First Task for Dev Trolls
+## 🎯 Mission 001 – First Bounty
 
-- Add **highly visible** and **uniquely designed** **Login** and **Sign Up** buttons on the homepage and key user entry points.
-- Display the **current company stock valuation** prominently within the UI or accessible pages.
-- The design should be **eye-catching, modern, and intuitive** — a standout feature of the site’s branding.
+**"Launch-ready login experience"**
+
+Your task:
+- Add a visible **Login** button (top-right, mobile-friendly).
+- Add a **Sign up** button.
+- Show a **"Company Valuation: $10M"** tag on homepage.
+- Design should be **bold, unique, playful**, and feel “Web3-y without the cringe”.
+
+Send a PR. Get community hype. Own a piece of it.
 
 ---
 
-> The more traffic your feature or contribution generates, the greater your stake in the company becomes. You’re not just coding—you’re co-building a business.
+## 📈 How Equity Works
+
+- Every major PR = potential equity.
+- Traffic brought by your idea boosts your stake.
+- Memes, launches, UX — it’s all fair game.
+
+---
+
+## 🤝 Join the Movement
+
+Build. Shitpost. Earn.  
+This repo is **the contract**. The timeline is now.  
+Stake it. Wager it. Let chaos be your cofounder.
